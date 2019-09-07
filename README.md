@@ -1,8 +1,8 @@
-<p align="center"><img alt="Yinde's  Blog" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="Yinde's  Blog" src="https://avatars1.githubusercontent.com/u/23502338?v=4"></p><h2 align="center">
 Yinde's  Blog
 </h2>
 
-<h4 align="center">Talk is Cheap.</h4>
+<h4 align="center">Talk is cheap. Show me the code.</h4>
 <p align="center"><a title="Yinde's  Blog" target="_blank" href="https://github.com/zhangzhengyi12/solo-blog"><img src="https://img.shields.io/github/last-commit/zhangzhengyi12/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zhangzhengyi12/solo-blog"><img src="https://img.shields.io/github/repo-size/zhangzhengyi12/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,10 @@ Yinde's  Blog
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.yinode.tech/my-github-repos)
+* [LRU 缓存算法 ](https://blog.yinode.tech/articles/2019/09/06/1567751007304.html)
+* [机器学习 K均值分类算法](https://blog.yinode.tech/articles/2019/09/06/1567750946865.html)
+* [JS原生滚动 滚动到某个元素 (获取元素到滚动区域顶部的距离)](https://blog.yinode.tech/articles/2019/09/06/1567749034413.html)
 * [字典树的实现](https://blog.yinode.tech/articles/2019/08/09/1567739709922.html)
 * [构建一个用于创建组件库的项目脚手架工具(类 Vue-cli3)](https://blog.yinode.tech/articles/2019/07/09/1567739718744.html)
 * [利用 Github 的 Webhooks 能力自动构建发布博客](https://blog.yinode.tech/articles/2019/06/24/1567739722748.html)
@@ -26,56 +30,52 @@ Yinde's  Blog
 * [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
 * [JavaScript中的相等操作符](https://blog.yinode.tech/articles/2019/01/17/1567739716626.html)
-* [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
-* [初次尝试WebAssembly & Rust](https://blog.yinode.tech/articles/2019/01/09/1567739722410.html)
-* [Vue.js源码 阅读指南](https://blog.yinode.tech/articles/2019/01/04/1567739696919.html)
-* [Vue源码中编程手法](https://blog.yinode.tech/articles/2018/12/19/1567739696223.html)
 
 ### 热门
 
-* [ECMAScript6 入门](https://blog.yinode.tech/articles/2017/06/15/1567739685724.html)
-* [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
+* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
 * [利用gh-pages展示自己的DEMO](https://blog.yinode.tech/articles/2017/06/15/1567739687435.html)
+* [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
+* [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
+* [Unexpected end of JSON input while parsing near '...gex:7.0.0-beta.49](https://blog.yinode.tech/articles/2018/06/25/1567739693869.html)
+* [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
+* [算法导论笔记 四 二叉搜索树](https://blog.yinode.tech/articles/2018/06/23/1567739695690.html)
+* [微信图文 富文本  上传图片失败 code 15001](https://blog.yinode.tech/articles/2018/12/05/1567739695980.html)
+* [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
+* [算法导论 十 贪心算法 最小生成树](https://blog.yinode.tech/articles/2018/08/21/1567739697823.html)
+* [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
+* [利用git的submodule(子模块) 来管理项目](https://blog.yinode.tech/articles/2018/02/13/1567739700229.html)
+* [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
+* [解决移动端浏览器无法调用audio的play方法](https://blog.yinode.tech/articles/2017/12/10/1567739701046.html)
+* [使用jQuery实现轮播图切换和选项卡效果](https://blog.yinode.tech/articles/2017/05/25/1567739701746.html)
+* [使用Promise来改写Node传统的回调函数](https://blog.yinode.tech/articles/2017/07/30/1567739702357.html)
+* [我的前端最佳实践 ANode 匿名论坛 Django](https://blog.yinode.tech/articles/2018/12/18/1567739702857.html)
+* [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
+* [利用 require.js 实现组件化开发](https://blog.yinode.tech/articles/2017/06/05/1567739703834.html)
+
+### 热议
+
+* [ECMAScript6 入门](https://blog.yinode.tech/articles/2017/06/15/1567739685724.html)
+* [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
 * [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
 * [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
 * [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
-* [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
-* [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
 * [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
 * [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
-* [Unexpected end of JSON input while parsing near '...gex:7.0.0-beta.49](https://blog.yinode.tech/articles/2018/06/25/1567739693869.html)
 * [canvas-大鱼喂小鱼小游戏](https://blog.yinode.tech/articles/2017/12/16/1567739694071.html)
-* [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
 * [利用AOP的思路完成微信SPA中的来源统计功能](https://blog.yinode.tech/articles/2018/11/16/1567739694840.html)
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
-* [算法导论笔记 四 二叉搜索树](https://blog.yinode.tech/articles/2018/06/23/1567739695690.html)
-
-### 热议
-
-* [微信图文 富文本  上传图片失败 code 15001](https://blog.yinode.tech/articles/2018/12/05/1567739695980.html)
-* [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
+* [Vue源码中编程手法](https://blog.yinode.tech/articles/2018/12/19/1567739696223.html)
+* [Vue.js源码 阅读指南](https://blog.yinode.tech/articles/2019/01/04/1567739696919.html)
 * [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
-* [算法导论 十 贪心算法 最小生成树](https://blog.yinode.tech/articles/2018/08/21/1567739697823.html)
 * [解决微信小程序 chooselocation在ios下不能稳定触发的问题](https://blog.yinode.tech/articles/2018/10/02/1567739699109.html)
-* [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [常见的几种排序算法](https://blog.yinode.tech/articles/2018/05/25/1567739699949.html)
-* [利用git的submodule(子模块) 来管理项目](https://blog.yinode.tech/articles/2018/02/13/1567739700229.html)
 * [算法实战 文本校对工具 最长公共子序列](https://blog.yinode.tech/articles/2018/10/20/1567739700657.html)
-* [解决移动端浏览器无法调用audio的play方法](https://blog.yinode.tech/articles/2017/12/10/1567739701046.html)
 * [算法导论笔记 动态规划番外篇 堆与优先队列](https://blog.yinode.tech/articles/2018/09/08/1567739701440.html)
-* [使用jQuery实现轮播图切换和选项卡效果](https://blog.yinode.tech/articles/2017/05/25/1567739701746.html)
-* [使用Promise来改写Node传统的回调函数](https://blog.yinode.tech/articles/2017/07/30/1567739702357.html)
-* [我的前端最佳实践 ANode 匿名论坛 Django](https://blog.yinode.tech/articles/2018/12/18/1567739702857.html)
-* [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
-* [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
-* [利用 require.js 实现组件化开发](https://blog.yinode.tech/articles/2017/06/05/1567739703834.html)
-* [利用websocket技术实现一个俄罗斯方块对战游戏](https://blog.yinode.tech/articles/2017/12/15/1567739704222.html)
-* [URLSearchParams的兼容性问题](https://blog.yinode.tech/articles/2018/06/29/1567739704710.html)
-* [JS函数式编程常用技巧总结](https://blog.yinode.tech/articles/2017/11/24/1567739704889.html)
 
 ---
 
