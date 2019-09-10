@@ -33,15 +33,17 @@ Yinde's  Blog
 
 ### 热门
 
-* [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
-* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
-* [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
-* [分享一个很酷的fib实现](https://blog.yinode.tech/articles/2018/10/04/1567739706446.html)
-* [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
+* [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
+* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
 * [算法导论笔记 八 竞争性分析，自组织表](https://blog.yinode.tech/articles/2018/07/29/1567739718438.html)
+* [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
+* [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
+* [在微信spa中模拟一个路由堆栈系统](https://blog.yinode.tech/articles/2018/10/14/1567739716016.html)
+* [贡献你的力量 开发一个Vue组件并发布到npm](https://blog.yinode.tech/articles/2018/10/28/1567739705234.html)
+* [分享一个很酷的fib实现](https://blog.yinode.tech/articles/2018/10/04/1567739706446.html)
 * [ECMAScript6 入门](https://blog.yinode.tech/articles/2017/06/15/1567739685724.html)
 * [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
@@ -51,11 +53,11 @@ Yinde's  Blog
 * [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
 * [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
-* [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
-* [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 
 ### 热议
 
+* [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
+* [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
 * [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
@@ -74,8 +76,6 @@ Yinde's  Blog
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [常见的几种排序算法](https://blog.yinode.tech/articles/2018/05/25/1567739699949.html)
 * [利用git的submodule(子模块) 来管理项目](https://blog.yinode.tech/articles/2018/02/13/1567739700229.html)
-* [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
-* [算法实战 文本校对工具 最长公共子序列](https://blog.yinode.tech/articles/2018/10/20/1567739700657.html)
 
 ---
 
