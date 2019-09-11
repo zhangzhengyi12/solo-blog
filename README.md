@@ -10,6 +10,7 @@ Yinde's  Blog
 
 ### 最新
 
+* [编辑距离算法 - 计算两个单词之间的相似度](https://blog.yinode.tech/articles/2019/09/10/1568087483677.html)
 * [我在 GitHub 上的开源项目](https://blog.yinode.tech/my-github-repos)
 * [LRU 缓存算法 ](https://blog.yinode.tech/articles/2019/09/06/1567751007304.html)
 * [机器学习 K均值分类算法](https://blog.yinode.tech/articles/2019/09/06/1567750946865.html)
@@ -29,7 +30,6 @@ Yinde's  Blog
 * [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
-* [JavaScript中的相等操作符](https://blog.yinode.tech/articles/2019/01/17/1567739716626.html)
 
 ### 热门
 
