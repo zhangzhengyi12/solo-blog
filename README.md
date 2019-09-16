@@ -39,23 +39,24 @@ Yinde's  Blog
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
 * [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
 * [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
+* [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [在微信spa中模拟一个路由堆栈系统](https://blog.yinode.tech/articles/2018/10/14/1567739716016.html)
 * [算法导论笔记 八 竞争性分析，自组织表](https://blog.yinode.tech/articles/2018/07/29/1567739718438.html)
 * [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
 * [ECMAScript6 入门](https://blog.yinode.tech/articles/2017/06/15/1567739685724.html)
+* [Property 'id' has no initializer and is not definitely assigned in the constructor. 在Vue中使用TS提示prop参数没有被初始化和定义 解决办法](https://blog.yinode.tech/articles/2018/03/26/1567739714518.html)
 * [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
 * [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [算法实战 文本校对工具 最长公共子序列](https://blog.yinode.tech/articles/2018/10/20/1567739700657.html)
-* [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [利用 require.js 实现组件化开发](https://blog.yinode.tech/articles/2017/06/05/1567739703834.html)
 * [贡献你的力量 开发一个Vue组件并发布到npm](https://blog.yinode.tech/articles/2018/10/28/1567739705234.html)
 * [分享一个很酷的fib实现](https://blog.yinode.tech/articles/2018/10/04/1567739706446.html)
-* [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
 
 ### 热议
 
+* [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
 * [利用gh-pages展示自己的DEMO](https://blog.yinode.tech/articles/2017/06/15/1567739687435.html)
 * [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
@@ -75,7 +76,6 @@ Yinde's  Blog
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
 * [Vue.js源码 阅读指南](https://blog.yinode.tech/articles/2019/01/04/1567739696919.html)
 * [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
-* [算法导论 十 贪心算法 最小生成树](https://blog.yinode.tech/articles/2018/08/21/1567739697823.html)
 
 ---
 
