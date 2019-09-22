@@ -35,9 +35,9 @@ Yinde's  Blog
 
 * [Property 'id' has no initializer and is not definitely assigned in the constructor. 在Vue中使用TS提示prop参数没有被初始化和定义 解决办法](https://blog.yinode.tech/articles/2018/03/26/1567739714518.html)
 * [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
+* [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
-* [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
 * [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
@@ -51,13 +51,13 @@ Yinde's  Blog
 * [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
 * [利用gh-pages展示自己的DEMO](https://blog.yinode.tech/articles/2017/06/15/1567739687435.html)
+* [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
 * [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
-* [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
 
 ### 热议
 
 * [算法：最小硬币问题动态规划算法](https://blog.yinode.tech/articles/2018/10/12/1567739686332.html)
-* [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
+* [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
 * [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
 * [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
