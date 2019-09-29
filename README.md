@@ -49,10 +49,10 @@ Yinde's  Blog
 * [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
 * [ECMAScript6 入门](https://blog.yinode.tech/articles/2017/06/15/1567739685724.html)
 * [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
+* [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
 * [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
 * [利用websocket技术实现一个俄罗斯方块对战游戏](https://blog.yinode.tech/articles/2017/12/15/1567739704222.html)
 * [用Node写个小爬虫试试斗鱼总人气](https://blog.yinode.tech/articles/2017/09/02/1567739711278.html)
-* [几种快排的实现](https://blog.yinode.tech/articles/2018/12/13/1567739711554.html)
 
 ### 热议
 
@@ -66,7 +66,6 @@ Yinde's  Blog
 * [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
-* [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
 * [Unexpected end of JSON input while parsing near '...gex:7.0.0-beta.49](https://blog.yinode.tech/articles/2018/06/25/1567739693869.html)
 * [canvas-大鱼喂小鱼小游戏](https://blog.yinode.tech/articles/2017/12/16/1567739694071.html)
 * [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
@@ -76,6 +75,7 @@ Yinde's  Blog
 * [Vue源码中编程手法](https://blog.yinode.tech/articles/2018/12/19/1567739696223.html)
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
 * [Vue.js源码 阅读指南](https://blog.yinode.tech/articles/2019/01/04/1567739696919.html)
+* [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
 
 ---
 
