@@ -10,6 +10,7 @@ Yinde's  Blog
 
 ### 最新
 
+* [canvas判断用户是否点击在一条线上](https://blog.yinode.tech/articles/2019/10/02/1570005180369.html)
 * [V8 Lite - 轻量级的V8引擎 (译)](https://blog.yinode.tech/articles/2019/09/13/1568377457515.html)
 * [编辑距离算法 - 计算两个单词之间的相似度](https://blog.yinode.tech/articles/2019/09/10/1568087483677.html)
 * [我在 GitHub 上的开源项目](https://blog.yinode.tech/my-github-repos)
@@ -29,7 +30,6 @@ Yinde's  Blog
 * [算法 最长递增子序列 与 0 1 背包问题](https://blog.yinode.tech/articles/2019/03/09/1567739712780.html)
 * [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
 * [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
-* [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
 
 ### 热门
 
@@ -42,17 +42,17 @@ Yinde's  Blog
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
+* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [算法导论笔记 八 竞争性分析，自组织表](https://blog.yinode.tech/articles/2018/07/29/1567739718438.html)
 * [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
-* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [在微信spa中模拟一个路由堆栈系统](https://blog.yinode.tech/articles/2018/10/14/1567739716016.html)
-* [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
+* [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
-* [利用websocket技术实现一个俄罗斯方块对战游戏](https://blog.yinode.tech/articles/2017/12/15/1567739704222.html)
-* [JS函数式编程常用技巧总结](https://blog.yinode.tech/articles/2017/11/24/1567739704889.html)
+* [LOL模拟抽奖](https://blog.yinode.tech/articles/2017/07/30/1567739708398.html)
 * [对DOM样式操作浏览器前缀做抽象包装](https://blog.yinode.tech/articles/2017/10/17/1567739709236.html)
 * [用Node写个小爬虫试试斗鱼总人气](https://blog.yinode.tech/articles/2017/09/02/1567739711278.html)
-* [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
+* [我的Webpack实战](https://blog.yinode.tech/articles/2017/08/05/1567739716308.html)
+* [Node实现图灵机器人](https://blog.yinode.tech/articles/2017/07/31/1567739722180.html)
 
 ### 热议
 
