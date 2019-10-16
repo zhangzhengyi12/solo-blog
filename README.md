@@ -51,8 +51,8 @@ Yinde's  Blog
 * [对DOM样式操作浏览器前缀做抽象包装](https://blog.yinode.tech/articles/2017/10/17/1567739709236.html)
 * [初次尝试WebAssembly & Rust](https://blog.yinode.tech/articles/2019/01/09/1567739722410.html)
 * [clipboard.js 复制富文本](https://blog.yinode.tech/articles/2018/12/01/1567739703595.html)
+* [Node实现图灵机器人](https://blog.yinode.tech/articles/2017/07/31/1567739722180.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
-* [在微信spa中模拟一个路由堆栈系统](https://blog.yinode.tech/articles/2018/10/14/1567739716016.html)
 
 ### 热议
 
