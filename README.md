@@ -52,7 +52,7 @@ Yinde's  Blog
 * [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [初次尝试WebAssembly & Rust](https://blog.yinode.tech/articles/2019/01/09/1567739722410.html)
 * [CSS3 transform 实现星球大战开场动画效果](https://blog.yinode.tech/articles/2018/01/07/1567739715616.html)
-* [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
+* [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
 
 ### 热议
 
@@ -61,9 +61,9 @@ Yinde's  Blog
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
 * [利用gh-pages展示自己的DEMO](https://blog.yinode.tech/articles/2017/06/15/1567739687435.html)
 * [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
-* [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
 * [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
 * [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
+* [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
 * [JavaScript 类与行为委托](https://blog.yinode.tech/articles/2017/06/14/1567739690783.html)
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
