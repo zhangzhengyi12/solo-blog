@@ -10,6 +10,8 @@ Yinde's  Blog
 
 ### 最新
 
+* [计算机中的补码与无符号编码 {笔记}](https://blog.yinode.tech/articles/2019/10/31/1572534057585.html)
+* [不用第三个 Temp 变量实现 两个变量之间交换的方法 {XOR 按位或异运算}](https://blog.yinode.tech/articles/2019/10/31/1572505987718.html)
 * [canvas判断用户是否点击在一条线上](https://blog.yinode.tech/articles/2019/10/02/1570005180369.html)
 * [V8 Lite - 轻量级的V8引擎 (译)](https://blog.yinode.tech/articles/2019/09/13/1568377457515.html)
 * [编辑距离算法 - 计算两个单词之间的相似度](https://blog.yinode.tech/articles/2019/09/10/1568087483677.html)
@@ -28,12 +30,11 @@ Yinde's  Blog
 * [利用状态机实现一个简单的编译器](https://blog.yinode.tech/articles/2019/03/31/1567739711055.html)
 * [编程语言中的垃圾收集算法与node.js中的垃圾收集机制](https://blog.yinode.tech/articles/2019/03/21/1567739698612.html)
 * [算法 最长递增子序列 与 0 1 背包问题](https://blog.yinode.tech/articles/2019/03/09/1567739712780.html)
-* [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
-* [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 
 ### 热门
 
 * [Property 'id' has no initializer and is not definitely assigned in the constructor. 在Vue中使用TS提示prop参数没有被初始化和定义 解决办法](https://blog.yinode.tech/articles/2018/03/26/1567739714518.html)
+* [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [Peact源码解析 三 组件](https://blog.yinode.tech/articles/2018/01/01/1567739717405.html)
 * [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
 * [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
@@ -44,6 +45,7 @@ Yinde's  Blog
 * [React上手：一个聊天机器人聚合应用](https://blog.yinode.tech/articles/2017/12/25/1567739708009.html)
 * [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
+* [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
 * [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
@@ -51,8 +53,6 @@ Yinde's  Blog
 * [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
 * [初次尝试WebAssembly & Rust](https://blog.yinode.tech/articles/2019/01/09/1567739722410.html)
-* [CSS3 transform 实现星球大战开场动画效果](https://blog.yinode.tech/articles/2018/01/07/1567739715616.html)
-* [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
 
 ### 热议
 
@@ -61,6 +61,7 @@ Yinde's  Blog
 * [TypeScript future 列表](https://blog.yinode.tech/articles/2018/01/05/1567739686890.html)
 * [利用gh-pages展示自己的DEMO](https://blog.yinode.tech/articles/2017/06/15/1567739687435.html)
 * [图灵机器人WEB版](https://blog.yinode.tech/articles/2017/08/02/1567739687947.html)
+* [为React-native添加redux](https://blog.yinode.tech/articles/2018/02/26/1567739688783.html)
 * [转制一个Todo App 为 PWA 应用](https://blog.yinode.tech/articles/2018/01/10/1567739689324.html)
 * [微信webapp分享出去带分享参数 form 导致进入分享无法正常匹配路由 vue](https://blog.yinode.tech/articles/2018/10/02/1567739690259.html)
 * [移动端强制横屏方案](https://blog.yinode.tech/articles/2019/01/25/1567739690533.html)
@@ -75,7 +76,6 @@ Yinde's  Blog
 * [利用AOP的思路完成微信SPA中的来源统计功能](https://blog.yinode.tech/articles/2018/11/16/1567739694840.html)
 * [算法导论笔记 四 二叉搜索树](https://blog.yinode.tech/articles/2018/06/23/1567739695690.html)
 * [微信图文 富文本  上传图片失败 code 15001](https://blog.yinode.tech/articles/2018/12/05/1567739695980.html)
-* [Vue源码中编程手法](https://blog.yinode.tech/articles/2018/12/19/1567739696223.html)
 
 ---
 
