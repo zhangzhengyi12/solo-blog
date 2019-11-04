@@ -37,8 +37,8 @@ Yinde's  Blog
 * [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [Peact源码解析 三 组件](https://blog.yinode.tech/articles/2018/01/01/1567739717405.html)
 * [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
-* [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [Vue全家桶实现网易云音乐UMP版](https://blog.yinode.tech/articles/2018/02/18/1567739717702.html)
+* [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [算法导论笔记 多线程算法](https://blog.yinode.tech/articles/2018/09/28/1567739705579.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
 * [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
@@ -48,11 +48,11 @@ Yinde's  Blog
 * [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
 * [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
+* [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
-* [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
+* [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
-* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 
 ### 热议
 
@@ -69,13 +69,13 @@ Yinde's  Blog
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
-* [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
 * [Unexpected end of JSON input while parsing near '...gex:7.0.0-beta.49](https://blog.yinode.tech/articles/2018/06/25/1567739693869.html)
 * [canvas-大鱼喂小鱼小游戏](https://blog.yinode.tech/articles/2017/12/16/1567739694071.html)
 * [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
 * [利用AOP的思路完成微信SPA中的来源统计功能](https://blog.yinode.tech/articles/2018/11/16/1567739694840.html)
 * [算法导论笔记 四 二叉搜索树](https://blog.yinode.tech/articles/2018/06/23/1567739695690.html)
 * [微信图文 富文本  上传图片失败 code 15001](https://blog.yinode.tech/articles/2018/12/05/1567739695980.html)
+* [Vue源码中编程手法](https://blog.yinode.tech/articles/2018/12/19/1567739696223.html)
 
 ---
 
