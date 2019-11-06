@@ -52,7 +52,7 @@ Yinde's  Blog
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
 * [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
-* [初次尝试WebAssembly & Rust](https://blog.yinode.tech/articles/2019/01/09/1567739722410.html)
+* [使用React快速开发Chrome扩展程序](https://blog.yinode.tech/articles/2018/04/29/1567739706085.html)
 
 ### 热议
 
