@@ -10,6 +10,7 @@ Yinde's  Blog
 
 ### 最新
 
+* [小程序的动态生成二维码 scene 参数编解码工具函数分享](https://blog.yinode.tech/articles/2019/11/08/1573195926968.html)
 * [计算机中的补码与无符号编码 {笔记}](https://blog.yinode.tech/articles/2019/10/31/1572534057585.html)
 * [不用第三个 Temp 变量实现 两个变量之间交换的方法 {XOR 按位或异运算}](https://blog.yinode.tech/articles/2019/10/31/1572505987718.html)
 * [canvas判断用户是否点击在一条线上](https://blog.yinode.tech/articles/2019/10/02/1570005180369.html)
@@ -29,7 +30,6 @@ Yinde's  Blog
 * [虚拟滚动的实现(适合大量的列表数据)](https://blog.yinode.tech/articles/2019/04/08/1567739693051.html)
 * [利用状态机实现一个简单的编译器](https://blog.yinode.tech/articles/2019/03/31/1567739711055.html)
 * [编程语言中的垃圾收集算法与node.js中的垃圾收集机制](https://blog.yinode.tech/articles/2019/03/21/1567739698612.html)
-* [算法 最长递增子序列 与 0 1 背包问题](https://blog.yinode.tech/articles/2019/03/09/1567739712780.html)
 
 ### 热门
 
