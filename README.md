@@ -10,7 +10,8 @@ Yinde's  Blog
 
 ### 最新
 
-* [小程序的动态生成二维码 scene 参数编解码工具函数分享](https://blog.yinode.tech/articles/2019/11/08/1573195926968.html)
+* [计算机中的 原码、反码、补码  (转)](https://blog.yinode.tech/articles/2019/11/09/1573291927044.html)
+* [小程序 Canvas 绘图生成海报排雷经验分享](https://blog.yinode.tech/articles/2019/11/08/1573195926968.html)
 * [计算机中的补码与无符号编码 {笔记}](https://blog.yinode.tech/articles/2019/10/31/1572534057585.html)
 * [不用第三个 Temp 变量实现 两个变量之间交换的方法 {XOR 按位或异运算}](https://blog.yinode.tech/articles/2019/10/31/1572505987718.html)
 * [canvas判断用户是否点击在一条线上](https://blog.yinode.tech/articles/2019/10/02/1570005180369.html)
@@ -29,30 +30,29 @@ Yinde's  Blog
 * [前端实现真正的遮罩穿透效果](https://blog.yinode.tech/articles/2019/04/14/1567739716985.html)
 * [虚拟滚动的实现(适合大量的列表数据)](https://blog.yinode.tech/articles/2019/04/08/1567739693051.html)
 * [利用状态机实现一个简单的编译器](https://blog.yinode.tech/articles/2019/03/31/1567739711055.html)
-* [编程语言中的垃圾收集算法与node.js中的垃圾收集机制](https://blog.yinode.tech/articles/2019/03/21/1567739698612.html)
 
 ### 热门
 
 * [Property 'id' has no initializer and is not definitely assigned in the constructor. 在Vue中使用TS提示prop参数没有被初始化和定义 解决办法](https://blog.yinode.tech/articles/2018/03/26/1567739714518.html)
 * [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
+* [编程语言中的垃圾收集算法与node.js中的垃圾收集机制](https://blog.yinode.tech/articles/2019/03/21/1567739698612.html)
 * [Peact源码解析 三 组件](https://blog.yinode.tech/articles/2018/01/01/1567739717405.html)
 * [Vue全家桶实现网易云音乐UMP版](https://blog.yinode.tech/articles/2018/02/18/1567739717702.html)
 * [算法导论 七 平摊分析，表的扩增，势能方法](https://blog.yinode.tech/articles/2018/07/21/1567739689807.html)
 * [算法导论笔记 多线程算法](https://blog.yinode.tech/articles/2018/09/28/1567739705579.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
-* [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
 * [React上手：一个聊天机器人聚合应用](https://blog.yinode.tech/articles/2017/12/25/1567739708009.html)
+* [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
 * [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
 * [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
 * [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
-* [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
-* [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
+* [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
+* [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
 * [算法导论笔记 二 哈希表](https://blog.yinode.tech/articles/2018/06/18/1567739710701.html)
-* [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
 
 ### 热议
 
@@ -69,13 +69,13 @@ Yinde's  Blog
 * [组件化开发WebAPP(gulp+webpack+bebal+es6)](https://blog.yinode.tech/articles/2017/07/08/1567739691232.html)
 * [算法导论笔记 四 全域哈希和完全哈希](https://blog.yinode.tech/articles/2018/06/20/1567739692223.html)
 * [用Vue写个移动端的TodoApp](https://blog.yinode.tech/articles/2017/08/28/1567739692571.html)
+* [微信 IOS 动态音乐播放器无法正常播放的问题](https://blog.yinode.tech/articles/2018/10/14/1567739693359.html)
 * [Unexpected end of JSON input while parsing near '...gex:7.0.0-beta.49](https://blog.yinode.tech/articles/2018/06/25/1567739693869.html)
 * [canvas-大鱼喂小鱼小游戏](https://blog.yinode.tech/articles/2017/12/16/1567739694071.html)
 * [gulp+webpack+babel+css压缩模块 实现自动构建工具](https://blog.yinode.tech/articles/2017/07/04/1567739694478.html)
 * [利用AOP的思路完成微信SPA中的来源统计功能](https://blog.yinode.tech/articles/2018/11/16/1567739694840.html)
 * [使用socket.io实现极简即时通讯](https://blog.yinode.tech/articles/2017/09/02/1567739695298.html)
 * [算法导论笔记 四 二叉搜索树](https://blog.yinode.tech/articles/2018/06/23/1567739695690.html)
-* [微信图文 富文本  上传图片失败 code 15001](https://blog.yinode.tech/articles/2018/12/05/1567739695980.html)
 
 ---
 
