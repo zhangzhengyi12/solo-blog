@@ -10,6 +10,7 @@ Yinde's  Blog
 
 ### 最新
 
+* [微信小程序 全局任务弹窗方案分享(微侵入式) Template + Request 拦截器](https://blog.yinode.tech/articles/2019/11/15/1573800858163.html)
 * [计算机中的 原码、反码、补码  (转)](https://blog.yinode.tech/articles/2019/11/09/1573291927044.html)
 * [小程序 Canvas 绘图生成海报排雷经验分享](https://blog.yinode.tech/articles/2019/11/08/1573195926968.html)
 * [计算机中的补码与无符号编码 {笔记}](https://blog.yinode.tech/articles/2019/10/31/1572534057585.html)
@@ -29,7 +30,6 @@ Yinde's  Blog
 * [哈希表的实现](https://blog.yinode.tech/articles/2019/04/21/1567739698258.html)
 * [前端实现真正的遮罩穿透效果](https://blog.yinode.tech/articles/2019/04/14/1567739716985.html)
 * [虚拟滚动的实现(适合大量的列表数据)](https://blog.yinode.tech/articles/2019/04/08/1567739693051.html)
-* [利用状态机实现一个简单的编译器](https://blog.yinode.tech/articles/2019/03/31/1567739711055.html)
 
 ### 热门
 
@@ -47,8 +47,8 @@ Yinde's  Blog
 * [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
 * [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
-* [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
 * [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
+* [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
 * [React-Native 达达看书阅读器](https://blog.yinode.tech/articles/2018/03/06/1567739697269.html)
 * [使用Nginx来让你的服务器部署多个Web应用](https://blog.yinode.tech/articles/2018/05/17/1567739699293.html)
 * [算法导论笔记 十一 最短路径算法](https://blog.yinode.tech/articles/2018/08/31/1567739713632.html)
