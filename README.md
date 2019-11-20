@@ -34,8 +34,8 @@ Yinde's  Blog
 ### 热门
 
 * [Property 'id' has no initializer and is not definitely assigned in the constructor. 在Vue中使用TS提示prop参数没有被初始化和定义 解决办法](https://blog.yinode.tech/articles/2018/03/26/1567739714518.html)
-* [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [微信+vue 任意页面直接通过路由进入并拦截按钮  返回任意页面](https://blog.yinode.tech/articles/2018/10/30/1567739707176.html)
+* [从JS的阻塞角度谈谈浏览器渲染原理](https://blog.yinode.tech/articles/2019/01/30/1567739691731.html)
 * [编程语言中的垃圾收集算法与node.js中的垃圾收集机制](https://blog.yinode.tech/articles/2019/03/21/1567739698612.html)
 * [Peact源码解析 三 组件](https://blog.yinode.tech/articles/2018/01/01/1567739717405.html)
 * [Vue全家桶实现网易云音乐UMP版](https://blog.yinode.tech/articles/2018/02/18/1567739717702.html)
@@ -44,8 +44,8 @@ Yinde's  Blog
 * [React上手：一个聊天机器人聚合应用](https://blog.yinode.tech/articles/2017/12/25/1567739708009.html)
 * [JavaScript中的各种XY定位属性以及元素宽高属性](https://blog.yinode.tech/articles/2019/01/21/1567739719667.html)
 * [利用json-server配合vue-cli实现接口模拟](https://blog.yinode.tech/articles/2017/08/13/1567739707620.html)
-* [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [vue移动音乐播放器（qq音乐接口）](https://blog.yinode.tech/articles/2017/12/16/1567739696472.html)
+* [在Vue2.5中使用typeScript](https://blog.yinode.tech/articles/2018/01/10/1567739703353.html)
 * [让 Vue.js 中的 provide / inject 支持响应式](https://blog.yinode.tech/articles/2019/01/11/1567739700459.html)
 * [Webpack JS模块化原理](https://blog.yinode.tech/articles/2019/03/01/1567739702120.html)
 * [算法集合:防抖与节流函数,shuffle,jsonp转换json,对象深度克隆](https://blog.yinode.tech/articles/2017/11/24/1567739713914.html)
